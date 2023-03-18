@@ -1,1 +1,1 @@
-message = "This message from owners dev eniviroment"
+message = This message from owners dev eniviroment
